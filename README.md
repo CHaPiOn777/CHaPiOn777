@@ -10,6 +10,8 @@
 
 
 ### :fire: Моя статистика:
+<div display=flex>
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHaPiOn777&show_icons=true&theme=vision-friendly-dark)
 # [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CHaPiOn777&theme=dark&background=000000)](https://git.io/streak-stats)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHaPiOn777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
