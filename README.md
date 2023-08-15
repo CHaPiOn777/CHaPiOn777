@@ -1,4 +1,5 @@
 
+
 <div id="header" align="center" background="#FF00C0">
 
 <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="320" height="150">
@@ -28,15 +29,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHaPiOn777&theme=cobalt) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHaPiOn777&theme=cobalt)
 </dl>
 
-
 ### :fire: Моя статистика:
-#
+
 <dl align='center'>
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHaPiOn777&center=true&show_icons=true&card_width=600&icon_color=40e0d0&theme=cobalt&bg_color=20%2C008990%2C38017E)
+# [![GitHub Streak](https://streak-stats.demolab.com?user=CHaPiOn777&theme=react&hide_border=false&locale=ru&mode=weekly&background=20%2C008990%2C38017E)](https://git.io/streak-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHaPiOn777&layout=compact&theme=cobalt&bg_color=20%2C008990%2C38017E)](https://github.com/anuraghazra/github-readme-stats)
 
-# [![GitHub Streak](https://streak-stats.demolab.com?user=CHaPiOn777&theme=react&hide_border=false&card_width=500&locale=ru&mode=weekly&background=20%2C008990%2C38017E)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHaPiOn777&layout=compact&card_width=400&theme=cobalt&bg_color=20%2C008990%2C38017E)](https://github.com/anuraghazra/github-readme-stats)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHaPiOn777&center=true&show_icons=true&icon_color=40e0d0&theme=cobalt&bg_color=20%2C008990%2C38017E)
 
 </dl>
