@@ -36,7 +36,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHaPiOn777&theme=cobalt) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHaPiOn777&theme=cobalt)
 </dl>
 
-### :fire: Моя статистика:
+#
+### :fire: Еще немного статистики:
 
 <dl align='center'>
 
