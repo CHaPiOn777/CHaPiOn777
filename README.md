@@ -22,9 +22,9 @@
 
 #
 ### :fire: Мои контакты:
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/WhatsUp-blue?style=for-the-badge&logo=whatsUp&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  <a href="+79523080671">
+    <img src="https://img.shields.io/badge/WhatsUp-blue?style=for-the-badge&logo=whatsUp&logoColor=white" alt="WhatsUp"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
