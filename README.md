@@ -24,7 +24,7 @@
 ### :fire: Мои контакты:
 <div id="badges" align="center">
   <a href="+79523080671">
-    <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsUp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsUp"/>
   </a>
   <a href="+79523080671">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
