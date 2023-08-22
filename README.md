@@ -35,7 +35,7 @@
 #
 ### :fire: Codewars:
 <div align="center">
-  <a href="https://www.codewars.com/users/CHaPiOn777">
+  <a href="https://www.codewars.com/users/CHaPiOn777" target="_blank">
     <img src="https://www.codewars.com/users/CHaPiOn777/badges/large" alt="Telegram"/>
   </a>
 </div>
@@ -43,10 +43,10 @@
 #
 ### :fire: Мои контакты:
 <div id="social" align="center">
-  <a href="https://api.whatsapp.com/send?phone=89523080671">
+  <a href="https://api.whatsapp.com/send?phone=89523080671" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsUp"/>
   </a>
-  <a href="https://t.me/+79523080671">
+  <a href="https://t.me/+79523080671" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
