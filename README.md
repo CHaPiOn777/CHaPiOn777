@@ -9,7 +9,6 @@
 </h1>
 </div>
 
-# 
 - :nerd_face: Я - Full-stack разработчик
 - :100: Стремлюсь постоянно развиваться и совершенствовать профессиональные навыки
 - :trophy: Получаю удовольствие от программирования и решения интересных задач.
@@ -34,6 +33,14 @@
 </div>
 
 #
+### :fire: Codewars:
+<div align="center">
+  <a href="https://www.codewars.com/users/CHaPiOn777">
+    <img src="https://www.codewars.com/users/CHaPiOn777/badges/large" alt="Telegram"/>
+  </a>
+</div>
+
+#
 ### :fire: Мои контакты:
 <div id="social" align="center">
   <a href="https://api.whatsapp.com/send?phone=89523080671">
@@ -45,10 +52,6 @@
 </div>
 
 #
-### :fire: Мой codewars:
-
-# [![codewars](https://www.codewars.com/users/CHaPiOn777/badges/small)](https://www.codewars.com/users/CHaPiOn777)
-
 ### :fire: Моя статистика:
 <dl align='center'>
 
@@ -64,10 +67,11 @@
 
 <dl align='center'>
 
-# [![GitHub Streak](https://streak-stats.demolab.com?user=CHaPiOn777&theme=react&hide_border=false&locale=ru&mode=weekly&background=20%2C008990%2C38017E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CHaPiOn777&theme=react&hide_border=false&locale=ru&mode=weekly&background=20%2C008990%2C38017E)](https://git.io/streak-stats)
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHaPiOn777&center=true&show_icons=true&icon_color=40e0d0&theme=cobalt&bg_color=20%2C008990%2C38017E)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHaPiOn777&layout=compact&theme=cobalt&bg_color=20%2C008990%2C38017E)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHaPiOn777&center=true&show_icons=true&icon_color=40e0d0&theme=cobalt&bg_color=20%2C008990%2C38017E)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHaPiOn777&layout=compact&theme=cobalt&bg_color=20%2C008990%2C38017E)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </dl>
