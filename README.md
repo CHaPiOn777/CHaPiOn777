@@ -56,11 +56,11 @@
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHaPiOn777&theme=cobalt)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHaPiOn777&theme=cobalt)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHaPiOn777&theme=cobalt)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHaPiOn777&theme=cobalt&locale=en)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHaPiOn777&theme=cobalt&locale=en)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHaPiOn777&theme=cobalt)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHaPiOn777&theme=cobalt)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHaPiOn777&theme=cobalt&locale=en)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHaPiOn777&theme=cobalt&locale=en)
 </dl>
 
 #
