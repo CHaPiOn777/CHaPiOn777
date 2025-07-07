@@ -67,7 +67,7 @@
 ### :fire: A Little More Stats
 <dl align="center">  
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=CHaPiOn777&theme=react&hide_border=false&locale=ru&mode=weekly&background=20%2C008990%2C38017E)](https://git.io/streak-stats&locale=en)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=CHaPiOn777&theme=react&hide_border=false&locale=ru&mode=weekly&background=20%2C008990%2C38017E&locale=en)](https://git.io/streak-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHaPiOn777&center=true&show_icons=true&icon_color=40e0d0&theme=cobalt&bg_color=20%2C008990%2C38017E&locale=en)
 
